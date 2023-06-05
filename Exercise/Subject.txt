@@ -1,0 +1,16 @@
+Per te amore!!!
+
+Traccia 1: Calcolatrice
+Scrivi uno script che chiede all'utente di inserire due numeri e un operatore matematico (+, -, *, /). 
+L'output dello script dovrebbe essere il risultato del calcolo effettuato con i 
+numeri e l'operatore inseriti.
+
+Traccia 2: Conta le vocali
+Scrivi uno script che chiede all'utente di inserire una parola. 
+Lo script dovrebbe quindi contare il numero di vocali (a, e, i, o, u) presenti 
+nella parola inserita e stampare il risultato.
+
+Traccia 3: Convertitore di temperature
+Scrivi uno script che chiede all'utente di inserire una temperatura in gradi Celsius. 
+Lo script dovrebbe quindi convertire la temperatura in gradi Fahrenheit utilizzando la 
+formula appropriata e stampare il risultato.
