@@ -1,4 +1,4 @@
-# Cheatsheet di Vim
+# How2Vim - Le Basi
 
 ## Introduzione a Vim
 
