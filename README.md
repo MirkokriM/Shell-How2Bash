@@ -1,6 +1,7 @@
 # Shell-How2Bash
+Benvenuti nella repository dedicata alle Shell e alla Programmazione in Bash! In questo repository, esploreremo il mondo delle shell, con un focus particolare sulle shell Unix e sul linguaggio di scripting Bash.
 
-# Introduzione alle Diverse Shell
+## Introduzione alle Diverse Shell
 
 Le shell sono interpreti di comandi che forniscono un'interfaccia tra l'utente e il sistema operativo. Esistono diverse shell disponibili, ognuna con caratteristiche e funzionalità specifiche. Tra le shell più comuni ci sono Zsh, Bash e Cmd.
 
