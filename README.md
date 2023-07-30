@@ -1,6 +1,33 @@
 # Shell-How2Bash
 Benvenuti nella repository dedicata alle Shell e alla Programmazione in Bash! In questo repository, esploreremo il mondo delle shell, con un focus particolare sulle shell Unix e sul linguaggio di scripting Bash.
 
+## Contenuti
+
+1. [Introduzione alle Diverse Shell](#introduzione-alle-diverse-shell)
+   - [Unix Shell](#unix-shell)
+   - [Bash (Bourne Again SHell)](#bash-bourne-again-shell)
+   - [Zsh (Z Shell)](#zsh-z-shell)
+   - [Cmd (Command Prompt) di Windows](#cmd-command-prompt-di-windows)
+
+2. [Shell Unix Base](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/1.%20Shell%20Unix%20Base.md)
+   - Una panoramica dei comandi di base delle shell Unix e come utilizzarli per interagire con il sistema operativo.
+  
+3. [File di Configurazione](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/2.%20File%20di%20configurazione%20-%20Alias.md)
+   - Una introduzione ai file di configurazione .zshrc e .bashrc e sulla loro personalizzazione.
+
+4. [How2Vim](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/How2Vim/How2VIM_Base.md)
+   - Una guida rapida per iniziare con l'editor di testo Vim, comprensiva di comandi essenziali e scorciatoie utili.
+
+5. [Bash Scripting Guide](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/3.%20How2Bash_Base_1.md)
+   - Una guida rapida per iniziare a comprendere la sintassi dello scripting in Bash.
+
+6. [Bash Script Example](https://github.com/MirkokriM/Shell-How2Bash/tree/main/How2BASH_Guide/How2BASH_script_example)
+   - Vari script di esempio in Bash.
+
+7. [Esercizi in Bash](https://github.com/MirkokriM/Shell-How2Bash/tree/main/How2BASH_Guide/Exercise)
+   - Una cartella contenente esercizi pratici per migliorare le tue abilità di programmazione in Bash.
+    
+   
 ## Introduzione alle Diverse Shell
 
 Le shell sono interpreti di comandi che forniscono un'interfaccia tra l'utente e il sistema operativo. Esistono diverse shell disponibili, ognuna con caratteristiche e funzionalità specifiche. Tra le shell più comuni ci sono Zsh, Bash e Cmd.
