@@ -1,5 +1,3 @@
-Per te amore!!!
-
 Traccia 1: Calcolatrice
 Scrivi uno script che chiede all'utente di inserire due numeri e un operatore matematico (+, -, *, /). 
 L'output dello script dovrebbe essere il risultato del calcolo effettuato con i 
