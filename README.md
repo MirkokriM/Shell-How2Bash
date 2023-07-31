@@ -9,22 +9,25 @@ Benvenuti nella repository dedicata alle Shell e alla Programmazione in Bash! In
    - [Zsh (Z Shell)](#zsh-z-shell)
    - [Cmd (Command Prompt) di Windows](#cmd-command-prompt-di-windows)
 
-2. [Shell Unix Base](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/1.%20Shell%20Unix%20Base.md)
+2. [How2SSH-Git](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/0.%20How2SSH-Git.md)
+   - Piccolissimo tutorial all'uso di SSH e alle repository di Git, spero possa essere una buona introduzione.
+
+3. [Shell Unix Base](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/1.%20Shell%20Unix%20Base.md)
    - Una panoramica dei comandi di base delle shell Unix e come utilizzarli per interagire con il sistema operativo.
   
-3. [File di Configurazione](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/2.%20File%20di%20configurazione%20-%20Alias.md)
+4. [File di Configurazione](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/2.%20File%20di%20configurazione%20-%20Alias.md)
    - Una introduzione ai file di configurazione .zshrc e .bashrc e sulla loro personalizzazione.
 
-4. [How2Vim](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/How2Vim/How2VIM_Base.md)
+5. [How2Vim](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/How2Vim/How2VIM_Base.md)
    - Una guida rapida per iniziare con l'editor di testo Vim, comprensiva di comandi essenziali e scorciatoie utili.
 
-5. [Bash Scripting Guide](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/3.%20How2Bash_Base_1.md)
+6. [Bash Scripting Guide](https://github.com/MirkokriM/Shell-How2Bash/blob/main/How2BASH_Guide/3.%20How2Bash_Base_1.md)
    - Una guida rapida per iniziare a comprendere la sintassi dello scripting in Bash.
 
-6. [Bash Script Example](https://github.com/MirkokriM/Shell-How2Bash/tree/main/How2BASH_Guide/How2BASH_script_example)
+7. [Bash Script Example](https://github.com/MirkokriM/Shell-How2Bash/tree/main/How2BASH_Guide/How2BASH_script_example)
    - Vari script di esempio in Bash.
 
-7. [Esercizi in Bash](https://github.com/MirkokriM/Shell-How2Bash/tree/main/How2BASH_Guide/Exercise)
+8. [Esercizi in Bash](https://github.com/MirkokriM/Shell-How2Bash/tree/main/How2BASH_Guide/Exercise)
    - Una cartella contenente esercizi pratici per migliorare le tue abilità di programmazione in Bash.
     
    
